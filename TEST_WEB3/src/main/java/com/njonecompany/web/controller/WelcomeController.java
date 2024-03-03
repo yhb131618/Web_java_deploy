@@ -24,7 +24,9 @@ public class WelcomeController {
     }
 
     private String getMessage() {
-        return "Hi, there NCP!!!";
+        return "Jenkins-Tocat SSH Deploy: Maven Project";
     }
 
 }
+
+
